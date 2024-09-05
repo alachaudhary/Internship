@@ -1,0 +1,15 @@
+{
+    "name": "abdul/import",
+    "description": "trying to import excel and insert data into database",
+    "type": "library",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ala"
+        }
+    ],
+    "minimum-stability": "stable"
+}
