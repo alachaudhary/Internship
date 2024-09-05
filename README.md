@@ -1,1 +1,1 @@
-student file in uni folder contains the crud using OOP
+course file in uni folder contains the crud using OOP
